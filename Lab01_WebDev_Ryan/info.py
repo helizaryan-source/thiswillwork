@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profpic.jpg"
+profile_picture = "Lab01_WebDev_Ryan/Images/profpic.jpg"
 about_me = "Hey there! My name is Hannah Elizabeth Ryan and I am a first year bioimedical engineering major at Georgia Tech! I was born and raised in Columbia, Missouri, and my favorite color is blue."
 
 
