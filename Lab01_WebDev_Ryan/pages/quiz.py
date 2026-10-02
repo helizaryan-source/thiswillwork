@@ -3,7 +3,7 @@ import streamlit as st
 st.header("Hannah's Sweet Treats Quiz 🍰✨")
 st.text("What sweet treat should Hannah make you based on your personality? Take the quiz to get your personalized dessert!")
 
-st.image("Images/sweetTreat.jpg", caption = "So many choices...")
+st.image("Lab01_WebDev_Ryan/Images/sweetTreat.jpg", caption = "So many choices...")
 
 st.divider()#########
 
@@ -16,7 +16,7 @@ dailyTreat = st.selectbox( #NEW
     "How often do you enjoy a sweet treat?",
     ("Once a month", "Once a week", "Every other day", "Every day", "Every meal!!!", "Ew, never"),
     )
-st.image("Images/dessertquote.jpg")
+st.image("Lab01_WebDev_Ryan/Images/dessertquote.jpg")
 st.divider()########
 
 st.subheader("Now, how do you like your sweets?")
@@ -57,7 +57,7 @@ for item in toppings:
     toppingStorage += item
 
 
-st.image("Images/baking.jpg", caption = "Baking in progress...")
+st.image("Lab01_WebDev_Ryan/Images/baking.jpg", caption = "Baking in progress...")
 
 
 submission = st.button("Click to submit your preferences!")
