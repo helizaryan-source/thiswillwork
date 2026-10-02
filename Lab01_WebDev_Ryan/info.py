@@ -66,9 +66,9 @@ cad_data = {
     "AutoCad 3D": "Can build 2d and 3d objects"
 }
 leadership_data = {
-    "Interpretation Chair of Speech and Debate": (["- Taught and mentored 25+ students a year on interpretation events"],"Images/interp.jpeg"),
+    "Interpretation Chair of Speech and Debate": (["- Taught and mentored 25+ students a year on interpretation events"],"Lab01_WebDev_Ryan/Images/interp.jpeg"),
 
-    "Science National Honor Society Treasurer": (["- Managed funds for SNHS", "-Helped fundraise for the club"],"Images/snhs.jpeg")
+    "Science National Honor Society Treasurer": (["- Managed funds for SNHS", "-Helped fundraise for the club"],"Lab01_WebDev_Ryan/Images/snhs.jpeg")
 
 }
 
