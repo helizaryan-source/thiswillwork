@@ -32,11 +32,11 @@ course_data = {
     }
 experience_data = {
     "Pizza Ninja at Shakespeare's Pizza": (["Decorated pizzas to be oven ready",
-                                                                          "- Made pies to perfection", "- Learned to clean and operate a restaurant kitchen"],"Images/Pizza.jpeg"),
+                                                                          "- Made pies to perfection", "- Learned to clean and operate a restaurant kitchen"],"Lab01_WebDev_Ryan/Images/Pizza.jpeg"),
     "Ovens Worker at Shakespeare's Pizza":(["Man aged 4 ovens and cooked up to 40 pizzas at a time on our busiest nights",
-                                                           "- I burned myself a lot lol (as seen in image above)"],"Images/Ovens.jpeg"),
+                                                           "- I burned myself a lot lol (as seen in image above)"],"Lab01_WebDev_Ryan/Images/Ovens.jpeg"),
     "Waitress at Shakespeare's Pizza":(["Took customer orders and served up their food",
-                                                            "- Learned to deal with difficult customers"],"Images/Waitress.jpeg")
+                                                            "- Learned to deal with difficult customers"],"Lab01_WebDev_Ryan/Images/Waitress.jpeg")
 
 }
 
